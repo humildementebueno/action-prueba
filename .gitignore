@@ -1,0 +1,21 @@
+# Ignorar archivos y carpetas generados por Visual Studio
+.vs/
+bin/
+obj/
+
+# Archivos de configuración específicos del usuario
+*.csproj.user
+*.suo
+
+# Archivos de paquetes
+*.nupkg
+*.snupkg
+
+# Archivos generados por herramientas
+*.log
+*.cache
+*.ide
+
+# Archivos temporales del sistema operativo
+Thumbs.db
+.DS_Store

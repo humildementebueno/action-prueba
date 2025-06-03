@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Desktop\\Documents\\Dev\\c#\\platzi\\hola-mundo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D14EA5F-16DE-4EBF-BEC6-0B637F166B2E}|hola-mundo\\hola-mundo.csproj|c:\\users\\desktop\\documents\\dev\\c#\\platzi\\hola-mundo\\hola-mundo\\github\\workflows\\deploy.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4D14EA5F-16DE-4EBF-BEC6-0B637F166B2E}|hola-mundo\\hola-mundo.csproj|solutionrelative:hola-mundo\\github\\workflows\\deploy.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{4D14EA5F-16DE-4EBF-BEC6-0B637F166B2E}|hola-mundo\\hola-mundo.csproj|c:\\users\\desktop\\documents\\dev\\c#\\platzi\\hola-mundo\\hola-mundo\\.github\\workflows\\deploy.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D14EA5F-16DE-4EBF-BEC6-0B637F166B2E}|hola-mundo\\hola-mundo.csproj|solutionrelative:hola-mundo\\.github\\workflows\\deploy.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D14EA5F-16DE-4EBF-BEC6-0B637F166B2E}|hola-mundo\\hola-mundo.csproj|c:\\users\\desktop\\documents\\dev\\c#\\platzi\\hola-mundo\\hola-mundo\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "deploy.yaml",
-              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\Dev\\c#\\platzi\\hola-mundo\\hola-mundo\\github\\workflows\\deploy.yaml",
-              "RelativeDocumentMoniker": "hola-mundo\\github\\workflows\\deploy.yaml",
-              "ToolTip": "C:\\Users\\Desktop\\Documents\\Dev\\c#\\platzi\\hola-mundo\\hola-mundo\\github\\workflows\\deploy.yaml",
-              "RelativeToolTip": "hola-mundo\\github\\workflows\\deploy.yaml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\Dev\\c#\\platzi\\hola-mundo\\hola-mundo\\.github\\workflows\\deploy.yaml",
+              "RelativeDocumentMoniker": "hola-mundo\\.github\\workflows\\deploy.yaml",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\Dev\\c#\\platzi\\hola-mundo\\hola-mundo\\.github\\workflows\\deploy.yaml",
+              "RelativeToolTip": "hola-mundo\\.github\\workflows\\deploy.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-06-03T21:36:28.679Z",
               "EditorCaption": ""
