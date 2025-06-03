@@ -1,0 +1,15 @@
+name: "Deploy Hola mundo"
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+    deploy-prueba:
+    runs-on: ubuntu-latest
+    steps:
+        uses: actions/checkoutv4
+        run: echo "Hacer pull del codigo"
+        run: echo "Correr migracion"
+        run: echo "generar binario"
+        run: echo "publicar version"
