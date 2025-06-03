@@ -5,10 +5,10 @@ on:
     branches: ["main"]
 
 jobs:
-    deploy-prueba:
+  deploy-prueba:
     runs-on: ubuntu-latest
     steps:
-        - run: echo "Hacer pull del codigo"
-        - run: echo "Correr migracion"
-        - run: echo "generar binario"
-        - run: echo "publicar version"
+      - run: echo "Hacer pull del codigo"
+      - run: echo "Correr migracion"
+      - run: echo "generar binario"
+      - run: echo "publicar version"
