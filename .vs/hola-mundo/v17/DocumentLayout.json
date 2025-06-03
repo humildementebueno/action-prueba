@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Desktop\\Documents\\Dev\\c#\\platzi\\hola-mundo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D14EA5F-16DE-4EBF-BEC6-0B637F166B2E}|hola-mundo\\hola-mundo.csproj|c:\\users\\desktop\\documents\\dev\\c#\\platzi\\hola-mundo\\hola-mundo\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4D14EA5F-16DE-4EBF-BEC6-0B637F166B2E}|hola-mundo\\hola-mundo.csproj|solutionrelative:hola-mundo\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D14EA5F-16DE-4EBF-BEC6-0B637F166B2E}|hola-mundo\\hola-mundo.csproj|c:\\users\\desktop\\documents\\dev\\c#\\platzi\\hola-mundo\\hola-mundo\\github\\workflows\\dotnet.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D14EA5F-16DE-4EBF-BEC6-0B637F166B2E}|hola-mundo\\hola-mundo.csproj|solutionrelative:hola-mundo\\github\\workflows\\dotnet.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 128,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\Dev\\c#\\platzi\\hola-mundo\\hola-mundo\\.gitignore",
+              "RelativeDocumentMoniker": "hola-mundo\\.gitignore",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\Dev\\c#\\platzi\\hola-mundo\\hola-mundo\\.gitignore",
+              "RelativeToolTip": "hola-mundo\\.gitignore",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-03T21:42:28.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dotnet.yml",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\Dev\\c#\\platzi\\hola-mundo\\hola-mundo\\github\\workflows\\dotnet.yml",
+              "RelativeDocumentMoniker": "hola-mundo\\github\\workflows\\dotnet.yml",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\Dev\\c#\\platzi\\hola-mundo\\hola-mundo\\github\\workflows\\dotnet.yml",
+              "RelativeToolTip": "hola-mundo\\github\\workflows\\dotnet.yml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-03T21:36:28.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
